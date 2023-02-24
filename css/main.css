@@ -143,7 +143,7 @@ a:hover {
 	margin: 0;
 	padding: 222px 0px 222px 0px;
 	text-align: center;
-	color: white;
+	color: #00FFFF;
 }
 
 #head h1 {
@@ -215,26 +215,26 @@ a:hover {
 	font-size: 30px;
 	font-weight: 700;
 	text-transform: uppercase;
-	color: white;
+	color: #00FFFF;
 }
 
 #banner h2 {
 	margin-top: 5px;
 	font-size: 20px;
-	color: white;
+	color: #00FFFF;
 }
 
 #banner2 h1 {
 	font-size: 30px;
 	font-weight: 700;
 	text-transform: uppercase;
-	color: white;
+	color: #00FFFF;
 }
 
 #banner2 h2 {
 	margin-top: 5px;
 	font-size: 20px;
-	color: white;
+	color: #00FFFF;
 }
 
 #banner3 h1 {
