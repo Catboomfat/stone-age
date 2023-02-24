@@ -81,7 +81,7 @@ a:hover {
 .topnav {
 	list-style-type: none;
     overflow: hidden;
-    background-color: #2B65EC;
+    background-color: white;
     box-shadow: 0px 6px 13px -7px rgba(0,0,0,0.20);
     transition: all .2s ease-in;
     font-weight: 700;
