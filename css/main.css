@@ -18,7 +18,7 @@ html,body {
 
 hr {
 	max-width: 420px;
-	color: #00FFFF;
+	color: #718093;
 }
 
 p {
@@ -61,7 +61,7 @@ a:hover {
     z-index: 99;
     border: none;
     outline: none;
-    background-color: #00FFFF;
+    background-color: #3498db;
     color: white;
     cursor: pointer;
     padding: 15px;
@@ -139,11 +139,11 @@ a:hover {
 /* End Navbar */
 
 #head {
-	background-image: url("");
+	background-image: url("https://i.imgur.com/9GkIEjN.png");
 	margin: 0;
 	padding: 222px 0px 222px 0px;
 	text-align: center;
-	color: #00FFFF;
+	color: white;
 }
 
 #head h1 {
@@ -215,26 +215,26 @@ a:hover {
 	font-size: 30px;
 	font-weight: 700;
 	text-transform: uppercase;
-	color: #00FFFF;
+	color: white;
 }
 
 #banner h2 {
 	margin-top: 5px;
 	font-size: 20px;
-	color: #00FFFF;
+	color: white;
 }
 
 #banner2 h1 {
 	font-size: 30px;
 	font-weight: 700;
 	text-transform: uppercase;
-	color: #00FFFF;
+	color: white;
 }
 
 #banner2 h2 {
 	margin-top: 5px;
 	font-size: 20px;
-	color: #00FFFF;
+	color: white;
 }
 
 #banner3 h1 {
@@ -316,7 +316,7 @@ a:hover {
 }
 
 #gamemodes .gray {
-	background-color: #00FFFF;
+	background-color: #ecf0f1;
     padding: 0;
     margin: -10px;
 }
@@ -396,7 +396,7 @@ a:hover {
 
 
 footer {
-	background-color: #00FFFF;
+	background-color: #11171e;
 	color: white;
 }
 
