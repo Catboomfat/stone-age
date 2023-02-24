@@ -18,7 +18,7 @@ html,body {
 
 hr {
 	max-width: 420px;
-	color: #718093;
+	color: #00FFFF;
 }
 
 p {
@@ -61,7 +61,7 @@ a:hover {
     z-index: 99;
     border: none;
     outline: none;
-    background-color: #3498db;
+    background-color: #00FFFF;
     color: white;
     cursor: pointer;
     padding: 15px;
@@ -316,7 +316,7 @@ a:hover {
 }
 
 #gamemodes .gray {
-	background-color: #ecf0f1;
+	background-color: #00FFFF;
     padding: 0;
     margin: -10px;
 }
@@ -396,7 +396,7 @@ a:hover {
 
 
 footer {
-	background-color: #11171e;
+	background-color: #00FFFF;
 	color: white;
 }
 
